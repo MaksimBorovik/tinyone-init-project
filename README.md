@@ -2,5 +2,6 @@
 https://maksimborovik.github.io/tinyone-init-project/
 
 
-Get a Template:
+
+>Get a Template:
 > https://designsmaz.com/freebies/tinyone-psd-one-page-template/

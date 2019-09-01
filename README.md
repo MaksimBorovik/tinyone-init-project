@@ -1,3 +1,4 @@
-Powered on Grid-layout and flex-box with JS slider and menu on JQuery
+**Check out the result on page:**
+https://maksimborovik.github.io/tinyone-init-project/
 
 > https://designsmaz.com/freebies/tinyone-psd-one-page-template/

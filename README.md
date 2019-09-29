@@ -1,5 +1,5 @@
 **Check out the result on page:**
-https://mirrorimage7.github.io/tinyone-init-project/
+https://mirror-image.github.io/tinyone-init-project/
 
 
 
